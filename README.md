@@ -9,3 +9,4 @@
 Использовать только 1 цикл.
 
 Вариант 10
+![Безымянный](https://user-images.githubusercontent.com/90612318/137831969-9257ad84-ffee-49b4-ad25-7d18168e9904.png)
